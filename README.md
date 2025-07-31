@@ -39,5 +39,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&locale=en" alt="sujithx1" /></p>
 
-<p><img align="center" src="https://res.cloudinary.com/ded1lrbaz/image/upload/v1751622022/linkdindp_js9pb0.jpg" alt="sujithx1" /></p>
+<p>
+  <img 
+    align="center"
+    src="https://res.cloudinary.com/ded1lrbaz/image/upload/v1751622022/linkdindp_js9pb0.jpg"
+    alt="sujithx1"
+    style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;"
+  />
+</p>
 
