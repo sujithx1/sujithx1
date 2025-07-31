@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Team**
 
-- 👨‍💻 All of my projects are available at [https://sujithx1.github.io/react-portfolio/](https://sujithx1.github.io/react-portfolio/)
+- 👨‍💻 All of my projects are available at [https://sujithc.netlify.app/](https://sujithc.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sujithc-dev/](https://www.linkedin.com/in/sujithc-dev/)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sujith.c.dev@gmail.com**
 
-- 📄 Know about my experiences [https://sujithx1.github.io/react-portfolio/](https://sujithx1.github.io/react-portfolio/)
+- 📄 Know about my experiences [https://sujithc.netlify.app/](https://sujithc.netlify.app/)
 
 - ⚡ Hobbies **I Build WebSites**
 
@@ -39,5 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&locale=en" alt="sujithx1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujithx1&" alt="sujithx1" /></p>
+<p><img align="center" src="https://res.cloudinary.com/ded1lrbaz/image/upload/v1751622022/linkdindp_js9pb0.jpg" alt="sujithx1" /></p>
 
