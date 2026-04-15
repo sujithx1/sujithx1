@@ -33,9 +33,13 @@
 ### 📊 Engineering Insights
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujithx1&show_icons=true&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujithx1&theme=transparent&title_color=3b82f6&text_color=ffffff&layout=compact&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&theme=transparent&title_color=3b82f6&text_color=475569&icon_color=3b82f6&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithx1&theme=transparent&title_color=3b82f6&text_color=475569&layout=compact&hide_border=true" width="45%" />
 </div>
+
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujithx1&theme=transparent&stroke=3b82f6&fire=3b82f6&ring=3b82f6&hide_border=true" />
 </p>
