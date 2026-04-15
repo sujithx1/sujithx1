@@ -40,7 +40,7 @@ AWS • Nginx • Linux • Git • Redis • Postman
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img src="https://streak-stats.demolab.com?user=sujithx1&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
