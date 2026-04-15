@@ -1,59 +1,48 @@
-<h1 align="center">Hi 👋, I'm Sujith</h1>
-<h3 align="center">🚀 MERN Stack Developer | Backend & Scalable Systems</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Sujith</h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Engineer;System+Design+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <a href="https://sujithc.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" /></a>
+    <a href="https://linkedin.com/in/sujithc-dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+    <a href="mailto:sujith.c.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+### 🧑‍💻 Status
+- 🔭 **Current Focus:** Architecting high-performance backend systems.
+- ⚡ **Tech Stack:** Modern JavaScript/TypeScript ecosystem with a focus on type-safety.
+- 🧪 **Experimenting with:** Bun, Hono, and Edge computing.
+- 🎨 **Interests:** Visual technical documentation and developer education.
+
+---
+
+### 🛠️ Ecosystem
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,bun,react,hono,tailwind,nodejs,postgres,supabase,redis,aws,docker,linux&perline=6" />
+</div>
+
+---
+
+### 📊 Engineering Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithx1&theme=transparent&title_color=3b82f6&text_color=ffffff&layout=compact&hide_border=true" width="45%" />
+</div>
 
 <p align="center">
-  <a href="https://sujithc.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/sujithc-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Sujith-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sujith.c.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujithx1&theme=transparent&stroke=3b82f6&fire=3b82f6&ring=3b82f6&hide_border=true" />
 </p>
 
 ---
 
-### 🧑‍💻 About
-
-- 🔭 Building **scalable web applications**
-- 🌱 Learning **System Design & Advanced Backend**
-- 💬 Ask me about **Node.js, APIs, Architecture**
-- ⚡ Love creating things that live on the internet
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**  
-React • Redux • TypeScript • Tailwind • Sass  
-
-**Backend**  
-Node.js • Express • MongoDB • PostgreSQL  
-
-**Tools & DevOps**  
-AWS • Nginx • Linux • Git • Redis • Postman  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=sujithx1&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-### 🌐 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/sujithc-dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
----
-
-<p align="center">✨ Building • Learning • Growing ✨</p>
+<div align="center">
+  <p><i>"Simplicity is the soul of efficiency."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=60&section=footer" width="100%" />
+</div>
