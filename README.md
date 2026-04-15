@@ -25,6 +25,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,bun,react,hono,tailwind,nodejs,postgres,supabase,redis,aws,docker,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git,githubactions&perline=6" />
 </div>
 
 ---
