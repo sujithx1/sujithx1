@@ -100,3 +100,9 @@
   <p><i>"Tatakae, Tatakae."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=60&section=footer" width="100%" />
 </div>
+
+
+<!-- Pixel Art Workspace Showcase -->
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU5MTE5MjUsIm5iZiI6MTc4NTkxMTYyNSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA1VDA2MzM0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwNDAyMGJiODA1YTU5YTc5Yzc5YzdjODEyYWY3ZmMyNWU0MmI0NGI1YmJjMWFmMmE1ZGIzMDM5NTNjNmExYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.qKO04t-L_dMvCjU1bpUHHYj04xcgYuIjg70McXiYlJI" width="100%" style="border-radius: 10px;" />
+</div>
