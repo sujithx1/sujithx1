@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Engineer;System+Design+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   </p>
 
-  <!-- Eren Yeager Tatakae GIF -->
+  <!-- Eren Yeager Mirror Scene GIF -->
   <p align="center">
-    <img src="https://media.giphy.com/media/C1O3I72dTLM50P34A2/giphy.gif" alt="Eren Yeager Tatakae" width="400" style="border-radius: 10px;" />
+    <img src="https://media.giphy.com/media/26Ff3FNWM3V21225i/giphy.gif" alt="Eren Yeager Mirror Tatakae" width="400" style="border-radius: 10px;" />
   </p>
 
   <p align="center">
