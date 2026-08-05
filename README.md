@@ -99,7 +99,7 @@
 <div align="center">
  
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=60&section=footer" width="100%" /> -->
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=sujithx1&theme=transparent&stroke=3b82f6&fire=3b82f6&ring=3b82f6&hide_border=true](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
    <p><i>"Tatakae, Tatakae."</i></p>
 </div>
