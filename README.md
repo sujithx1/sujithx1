@@ -1,55 +1,43 @@
 <div align="center">
-  <h1>Hi 👋, I'm Sujith</h1>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Engineer;System+Design+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
-  </p>
 
-  <!-- Eren Yeager Mirror Scene GIF -->
-<p align="center">
-    <img src="https://media.tenor.com/2ggL-W6-NxsAAAAC/eren-yeager-attack-on-titan.gif" alt="Eren Yeager Mirror Tatakae" width="400" style="border-radius: 10px;" />
-  </p
+  # ⚡ Sujith | Backend & Systems Engineer
 
-  <p align="center">
-    <a href="https://sujithc.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" /></a>
-    <a href="https://linkedin.com/in/sujithc-dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-    <a href="mailto:sujith.c.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Architecting+Scalable+Backend+Systems;Bun+%2B+Hono+%2B+PostgreSQL;Type-Safe+Full-Stack+Engineering;Building+High-Performance+Distributed+Apps" alt="Typing SVG" />
+  </a>
 
----
-
-### 🧑‍💻 Status
-- 🔭 **Current Focus:** Architecting high-performance backend systems.
-- ⚡ **Tech Stack:** Modern JavaScript/TypeScript ecosystem with a focus on type-safety.
-- 🧪 **Experimenting with:** Bun, Hono, and Edge computing.
-- 🎨 **Interests:** Visual technical documentation and developer education.
-
----
-
-### 🛠️ Ecosystem
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,bun,react,hono,tailwind,nodejs,postgres,supabase,redis,aws,docker,linux&perline=6" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nginx,git,githubactions&perline=6" />
+  <br />
+
+  <!-- Eren Yeager Tatakae GIF -->
+  <img src="https://media.tenor.com/2ggL-W6-NxsAAAAC/eren-yeager-attack-on-titan.gif" alt="Eren Yeager Mirror Tatakae" width="420" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(59, 130, 246, 0.3);" />
+
+  <br />
+  <br />
+
+  <!-- Social & Portfolio Badges -->
+  <a href="https://sujithc.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/sujithc-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sujith.c.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
 </div>
 
 ---
 
-### 📊 Engineering Insights
+### 🗡️ The Tactical Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&theme=transparent&title_color=3b82f6&text_color=475569&icon_color=3b82f6&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithx1&theme=transparent&title_color=3b82f6&text_color=475569&layout=compact&hide_border=true" width="45%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujithx1&theme=transparent&stroke=3b82f6&fire=3b82f6&ring=3b82f6&hide_border=true" />
-</p>
-
----
-
-<div align="center">
-  <p><i>"Tatakae, Tatakae."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=60&section=footer" width="100%" />
-</div>
+```ts
+type Engineer = {
+  name: "Sujith";
+  role: "Backend & Systems Engineer";
+  mission: "Keep moving forward until all bottlenecks are destroyed.";
+  currentFocus: ["Distributed Systems", "High-Throughput APIs", "Edge Runtimes"];
+  stack: ["TypeScript", "Bun", "Hono", "PostgreSQL", "Redis", "Docker"];
+  status: "Tatakae Mode ⚡";
+};
