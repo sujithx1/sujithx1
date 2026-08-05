@@ -1,7 +1,12 @@
-   <div align="center">
+<div align="center">
   <h1>Hi 👋, I'm Sujith</h1>
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Engineer;System+Design+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  </p>
+
+  <!-- Eren Yeager Tatakae GIF -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/C1O3I72dTLM50P34A2/giphy.gif" alt="Eren Yeager Tatakae" width="400" style="border-radius: 10px;" />
   </p>
 
   <p align="center">
@@ -25,6 +30,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,bun,react,hono,tailwind,nodejs,postgres,supabase,redis,aws,docker,linux&perline=6" />
+  <br />
   <img src="https://skillicons.dev/icons?i=nginx,git,githubactions&perline=6" />
 </div>
 
@@ -34,11 +40,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&theme=transparent&title_color=3b82f6&text_color=475569&icon_color=3b82f6&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithx1&theme=transparent&title_color=3b82f6&text_color=475569&layout=compact&hide_border=true" width="45%" />
 </div>
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujithx1&theme=transparent&stroke=3b82f6&fire=3b82f6&ring=3b82f6&hide_border=true" />
@@ -47,6 +50,6 @@
 ---
 
 <div align="center">
-  <p><i>"Simplicity is the soul of efficiency."</i></p>
+  <p><i>"Tatakae, Tatakae."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=60&section=footer" width="100%" />
 </div>
