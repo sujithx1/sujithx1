@@ -86,8 +86,9 @@
 
 <div align="center">
 <!-- Mirror 1: vercel.app alternative domain -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujithx1&show_icons=true&theme=tokyonight&title_color=3b82f6&icon_color=3b82f6&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujithx1&theme=tokyonight&title_color=3b82f6&layout=compact&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&theme=tokyonight&title_color=3b82f6&icon_color=3b82f6&hide_border=true&include_all_commits=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithx1&theme=tokyonight&title_color=3b82f6&layout=compact&hide_border=true" />
 </div>
 
 <p align="center">
