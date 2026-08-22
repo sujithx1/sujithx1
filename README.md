@@ -86,9 +86,9 @@
 
 <div align="center">
 <!-- Mirror 1: vercel.app alternative domain -->
-<img src="https://github-readme-stats.vercel.app/api?username=sujithx1&show_icons=true&theme=tokyonight&title_color=3b82f6&icon_color=3b82f6&hide_border=true&include_all_commits=true" />
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sujithx1&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithx1&theme=tokyonight&title_color=3b82f6&layout=compact&hide_border=true" />
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sujithx1&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 
 <p align="center">
