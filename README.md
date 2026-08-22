@@ -85,10 +85,11 @@
 ### 📊 Engineering Insights
 
 <div align="center">
-<!-- Mirror 1: vercel.app alternative domain -->
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sujithx1&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sujithx1&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-stats-extended.vercel.app/api?username=sujithx1&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=sujithx1&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <p align="center">
