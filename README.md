@@ -7,7 +7,7 @@
   <!-- Eren Yeager Mirror Scene GIF -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/26Ff3FNWM3V21225i/giphy.gif"
+    src="https://giphy.com/gifs/jjk-yuta-qBLenmLQI66ikp9BDM"
     alt="Eren Yeager Mirror Scene"
     width="400"
   />
