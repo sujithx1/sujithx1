@@ -7,8 +7,8 @@
   <!-- Eren Yeager Mirror Scene GIF -->
 <p align="center">
   <img
-    src="https://giphy.com/gifs/jjk-yuta-qBLenmLQI66ikp9BDM"
-    alt="Eren Yeager Mirror Scene"
+    src="https://i.giphy.com/qBLenmLQI66ikp9BDM.gif"
+    alt="Yuta Okkotsu - Jujutsu Kaisen"
     width="400"
   />
 </p>
