@@ -5,11 +5,13 @@
   </p>
 
   <!-- Eren Yeager Mirror Scene GIF -->
-  <p align="center">
-    <!-- <img src="https://media.giphy.com/media/26Ff3FNWM3V21225i/giphy.gif" alt="Eren Yeager Mirror Tatakae" width="400" style="border-radius: 10px;" /> -->
-    ![GIF](https://media.giphy.com/media/26Ff3FNWM3V21225i/giphy.gif)
-  </p>
-
+ <p align="center">
+  <img
+    src="https://media.giphy.com/media/26Ff3FNWM3V21225i/giphy.gif"
+    alt="Eren Yeager Mirror Tatakae"
+    width="400"
+  />
+</p>
   <p align="center">
     <a href="https://sujithc.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel" /></a>
     <a href="https://linkedin.com/in/sujithc-dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
